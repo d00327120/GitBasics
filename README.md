@@ -1,2 +1,0 @@
-# GitBasics
-Git assignment
